@@ -1,8 +1,1 @@
-# Git Course
-
-Este é um repositório  
-
-Saiba mais
-
-
-KLKFLKF
+# Git CourseEste é um repositórioSaiba maisKLKFLKF
